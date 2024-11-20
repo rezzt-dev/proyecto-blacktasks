@@ -1,0 +1,56 @@
+<resources>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string-array name="color_options">
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+    </string-array>
+
+    <string-array name="language_values">
+        <item>en</item>
+        <item>es</item>
+        <item>fr</item>
+    </string-array>
+
+    <string-array name="language_entries">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>French</item>
+    </string-array>
+
+    <string name="app_name">BlackTasks</string>
+    <string name="add_task">Add Task</string>
+    <string name="search">Search</string>
+    <string name="delete_selected">Delete Selected</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Task Description</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="about_title">App Info</string>
+    <string name="about_text">Task management application developed in Android Studio by Juan Garcia Cazallas. Blacktasks is an Android application designed for task management and organization, providing users with an efficient tool to organize their time and activities.</string>
+    <string name="menu_pref">Preferences</string>
+    <string name="menu_web">WebPage</string>
+    <string name="menu_info">About It</string>
+    <string name="pref_idiom">Language</string>
+    <string name="list_title">Task List</string>
+    <string name="list_all_task">All</string>
+    <string name="list_incompleted_task">Incomplete Tasks</string>
+    <string name="list_completed_task">Completed Tasks</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

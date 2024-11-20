@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ic_main_window"
+        android:icon="@drawable/home_icon"
+        android:title="mainActivity"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item
+        android:id="@+id/ic_list_window"
+        android:icon="@drawable/list_icon"
+        android:title="@string/list_title"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item
+        android:id="@+id/ic_preferences"
+        android:icon="@drawable/pref_icon"
+        android:title="@string/menu_pref"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/ic_web_page"
+        android:icon="@drawable/web_icon"
+        android:title="@string/menu_web"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/ic_acerca_de"
+        android:icon="@drawable/info_icon"
+        android:title="@string/menu_info"
+        app:showAsAction="never"/>
+</menu>

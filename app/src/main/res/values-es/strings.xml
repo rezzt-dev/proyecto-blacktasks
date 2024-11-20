@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BlackTasks</string>
+    <string name="add_task">Agregar Tarea</string>
+    <string name="search">Buscar</string>
+    <string name="delete_selected">Eliminar Seleccionados</string>
+    <string name="task_title">Título de la Tarea</string>
+    <string name="task_description">Descripción de la Tarea</string>
+    <string name="confirm">Confirmar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="about_title">Acerca de</string>
+    <string name="about_text">Aplicacion de gestion de tareas realizado en Android Studio por Juan Garcia Cazallas. Blacktasks es una aplicación para Android diseñada para la administración y manejo de tareas, ofreciendo a los usuarios una herramienta eficiente para organizar su tiempo y actividades.</string>
+    <string name="menu_pref">Preferencias</string>
+    <string name="menu_web">Pagina Web</string>
+    <string name="menu_info">Acerca de</string>
+    <string name="pref_idiom">Idioma</string>
+    <string name="list_title">Lista de Tareas</string>
+    <string name="list_all_task">Todas</string>
+    <string name="list_incompleted_task">Tareas Incompletas</string>
+    <string name="list_completed_task">Tareas Completas</string>
+
+    <string-array name="language_values">
+        <item>en</item>
+        <item>es</item>
+        <item>fr</item>
+    </string-array>
+
+    <string-array name="language_entries">
+        <item>Ingles</item>
+        <item>Español</item>
+        <item>Frances</item>
+    </string-array>
+</resources>
